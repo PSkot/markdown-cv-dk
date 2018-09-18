@@ -163,6 +163,14 @@ a:hover {
 	color:#39f
 }
 
+img {
+position:relative;
+margin-top: -6.15em;
+left: -23%;
+height: 15%;
+width: 15%;
+}
+
 #webaddress {
 	margin-top: 1em;
 	position: relative;
@@ -189,6 +197,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
