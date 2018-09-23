@@ -66,20 +66,21 @@ p {
 	left: 33%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 55%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
 }
 
 p code {
 	position: absolute;
-	left: -14%;
+	text-align: right;
+	right: -30%;
 }
 
 
@@ -158,6 +159,14 @@ a {
 
 a:hover {
 	color:#39f
+}
+
+img {
+position:relative;
+margin-top: -6.5em;
+left: -23%;
+height: 15%;
+width: 15%;
 }
 
 #webaddress {

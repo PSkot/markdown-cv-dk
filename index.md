@@ -2,23 +2,46 @@
 layout: cv
 title: Peter Asbæk Skøt
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Peter Asbæk Skøt
+Data Scientist, M.Sc. in Finance and Investments
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pete_skoett@hotmail.com">pete_skoett@hotmail.com</a>
+| <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">My LinkedIn Profile</a>
 </div>
 
 <img src="Skof.jpg">
 
-## Currently
+## Work Experience
 
-Standing on the shoulders of giants
 
-### Specialized in
+`2016 -`
+__Data Scientist, 4finance__ <br/>
+4finance is an international consumer lending company.
+<br/>As Data Scientist I carry the primary responsibility,  along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy
+for our two consumer lending products, VIVUS.DK and Zaplo.dk.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+
+`2016 - 2016`
+__Trainee, GroupM__<br/>
+As an analyst trainee in GroupM, I was assisting with data preparation and partly assisting with sales modelling, Mostly based on regression analysis.
+
+
+`2014 - 2016`
+__Assistance in Finance, 4finance__<br/>
+As assistant in Finance, I was mostly responsible for daily book keeping, and assisting with understanding and add new information to our accounting system, iScala.
+I was also included in a few risk analysis projects.
+
+## Education
+`2015 - 2017`
+__M.Sc. in Finance and Investments, Copenhagen Business School__
+Being a relatively new line at CBS, this education provides a quite quantative approach (relative to other finance educations on CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
+A few useful tools (Excel/VBA, R) were also taught at this study.
+
+`2012 - 2015`
+__B.Sc. in International Business, Copenhagen Business School__<br/>
+International Business provides an overview of most areas usually covered by CBS, including a bit of economics, financial accounting and statistics as well as softer topics such as marketing, strategy and communication.
 
 
 ### Research interests
