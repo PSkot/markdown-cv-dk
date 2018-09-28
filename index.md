@@ -13,20 +13,27 @@ Data Scientist, M.Sc. in Finance and Investments
 
 <img src="Skof.jpg">
 
-## Work Experience
+## Summary
+My name is Peter. I am currently employed as a Data Scientist at the international consumer lending company, 4finance.
+I am a highly self-driven individual with a flair and interest for advanced analytics. Until now, my approach has mostly been statistical,
+although I have recently become more acquanted with Machine Learning methodologies, which I intend to explore further.<br/>
+In addition, I have started to dive a bit into software programming as well, currently taking a mathematical software programming
+course at the Danish Technical University (DTU).<br/>
+Apart from my professional profile, I am much into playing music, running as well as spending time with friends and family.
 
+## Work Experience
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
-4finance is an international consumer lending company.
-<br/>As Data Scientist I carry the primary responsibility,  along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy
+4finance is an international consumer lending company.<br/>
+As Data Scientist I carry the primary responsibility,  along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy
 for our two consumer lending products, VIVUS.DK and Zaplo.dk.
-
+<br/><br/>
 
 `2016 - 2016`
 __Trainee, GroupM__<br/>
 As an analyst trainee in GroupM, I was assisting with data preparation and partly assisting with sales modelling, Mostly based on regression analysis.
-
+<br/><br/>
 
 `2014 - 2016`
 __Assistance in Finance, 4finance__<br/>
@@ -35,20 +42,34 @@ I was also included in a few risk analysis projects.
 
 ## Education
 `2015 - 2017`
-__M.Sc. in Finance and Investments, Copenhagen Business School__
-Being a relatively new line at CBS, this education provides a quite quantative approach (relative to other finance educations on CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
+__M.Sc. in Finance and Investments, Copenhagen Business School__<br/>
+Being a relatively new line at CBS, this education provides a highly quantitative approach (relative to other finance educations on CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
 A few useful tools (Excel/VBA, R) were also taught at this study.
-
+<br/><br/>
 `2012 - 2015`
 __B.Sc. in International Business, Copenhagen Business School__<br/>
 International Business provides an overview of most areas usually covered by CBS, including a bit of economics, financial accounting and statistics as well as softer topics such as marketing, strategy and communication.
 
 
-### Research interests
+## Technical skills
 
-Cooling, power series, <br/>
-optics, alchemy, planetary motions, apples.
+__Programming/coding languages__
 
+
+Proficient/Experienced: <br/>
+SQL \| R \| SAS \| VBA
+<br/><br/>
+
+Familiarity:
+<br/> Python \| C/C++ \| JavaScript
+
+<br/>
+__Spoken/written languages__
+
+
+
+
+Danish, English
 
 ## Education
 
