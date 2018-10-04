@@ -4,7 +4,7 @@
 */
 
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h1, h2, h3, h4, h5, h6, p, p1, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -64,6 +64,23 @@ body {
 p {
 	position: relative;
 	left: 33%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
+
+p1 {
+	position: relative;
+	left: 35%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
+
+p2 {
+	font-weight: bold;
+	position: relative;
+	left: 35%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 55%;
@@ -163,10 +180,10 @@ a:hover {
 
 img {
 position:relative;
-margin-top: -6.5em;
-left: -23%;
-height: 15%;
-width: 15%;
+margin-top: -6.2em;
+left: 40%;
+height: 35%;
+width: 35%;
 }
 
 #webaddress {

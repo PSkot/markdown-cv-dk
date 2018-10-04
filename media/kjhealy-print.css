@@ -69,6 +69,23 @@ p {
 	width: 70%;
 }
 
+p1 {
+	position: relative;
+	left: 30%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
+
+h5 {
+	font-weight: bold;
+	position: relative;
+	left: 30%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
+
 code {
 	font: normal normal;
 	font-size: 60%;
@@ -84,10 +101,10 @@ p code {
 
 img {
 position:relative;
-margin-top: -6.15em;
-left: -23%;
-height: 15%;
-width: 15%;
+margin-top: -6.2em;
+left: -35%;
+height: 30%;
+width: 30%;
 }
 
 ul {
