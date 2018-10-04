@@ -26,7 +26,7 @@ Apart from my professional profile, I am into playing music, gaming, running and
 __Data Scientist, 4finance__ <br/>
 As Data Scientist I carry the primary responsibility, along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy
 for our two products, VIVUS.DK and Zaplo.dk.
-My tasks include, but are not limited to, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
+My tasks include, but are not limited to, monitoring our loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
 and ultimately develop and communicate an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
 
 <br/>
@@ -44,7 +44,7 @@ I was also included in a few risk analysis projects.
 ## Education
 `2015 - 2017`
 __M.Sc. in Finance and Investments, Copenhagen Business School__<br/>
-Being a relatively new concentration at CBS, this education provides a highly quantitative approach (relative to other finance educations at CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
+Being a relatively new concentration at CBS, this education provides a fairly quantitative approach (relative to other finance educations at CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
 A few useful tools (Excel/VBA, R) are also taught at this concentration.
 <br/><br/>
 
