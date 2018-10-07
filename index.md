@@ -7,10 +7,11 @@ Data Scientist, M.Sc. in Finance and Investments
 
 
 <div id="webaddress">
-<a> +45 28 69 60 08 </a> |
-<a href="pete_skoett@hotmail.com">pete_skoett@hotmail.com</a>
+<a href="tel:004528696008">+45 28 69 60 08</a> |
+<a href="mailto:pete_skoett@hotmail.com">pete_skoett@hotmail.com</a>
 | <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">LinkedIn Profile</a>
 </div>
+
 
 <img src="Skof.jpg">
 
@@ -24,7 +25,7 @@ Apart from my professional profile, I am into playing music, gaming, running and
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
-As Data Scientist I carry the primary responsibility, along with our regional CRO, in analyzing, managing and developing the risk/underwriting strategy
+As Data Scientist I carry the primary responsibility, along with our regional Chief Risk Officer, in analyzing, managing and developing the risk/underwriting strategy
 for our two products, VIVUS.DK and Zaplo.dk.
 My tasks include, but are not limited to, monitoring our loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
 and ultimately develop and communicate an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
@@ -38,8 +39,8 @@ As an analyst trainee in GroupM, I was assisting with data preparation and partl
 
 `2014 - 2016`
 __Assistant in Finance, 4finance__<br/>
-As assistant in Finance, I was mostly responsible for daily book keeping, and assisting with understanding and add new information to our accounting system, iScala.
-I was also included in a few risk analysis projects.
+As assistant in Finance, I was responsible for daily book keeping, as well as assisting with understanding and adding new information to our accounting system, iScala.
+I was also involved in a few risk analysis projects.
 
 ## Education
 `2015 - 2017`
@@ -50,17 +51,23 @@ A few useful tools (Excel/VBA, R) are also taught at this concentration.
 
 `2012 - 2015`
 __B.Sc. in International Business, Copenhagen Business School__<br/>
-International Business provides an overview of most areas usually covered by CBS, including a bit of economics, financial accounting and statistics as well as softer topics such as marketing, strategy and communication.
+International Business provides an overview of most areas usually covered by CBS, including economics, financial accounting, statistics, marketing, strategy and communication.
 <br/><br/>
 
 __Other courses__
 
 `Completed`
-Econometrics II, KU \| Computer Science I, KU
+Econometrics II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| University of Copenhagen <br/>
+Computer Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| University of Copenhagen
 <br/><br/>
 
 `Ongoing`
-Data Science Specialization, Coursera \| Mathematical Software Programming, DTU
+Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; \| Coursera <br/>
+Mathematical Software Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;\| The Technical University of Denmark
 
 ## Skills
 
@@ -84,7 +91,10 @@ __Other relevant skills__
 - Finance/Financial modelling
 - Forecasting
 
-
+<br/>
+<br/>
+<br/>
+<br/>
 <!--__Spoken/written languages__-->
 
 <!--Danish, English-->
@@ -93,9 +103,16 @@ __Other relevant skills__
 
 __Stella Jemeljanova__ <br/>
 Previous Regional Head of Risk (Nordics) \| 4finance <br/>
-<a href="stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> \| <a href="https://www.linkedin.com/in/stella-jemeljanova-b4629580/">LinkedIn Profile</a>
+<div id="webaddress">
+<a href="mailto:stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> |
+<a href="https://www.linkedin.com/in/stella-jemeljanova-b4629580/">LinkedIn Profile</a>
 <br/><br/>
+</div>
 
 __Minghui Shan__ <br/>
+
 Finance Manager \| 4finance <br/>
-+45 20 95 33 33 \| <a href="minghuicn@yahoo.com">minghuicn@yahoo.com</a> \| <a href="https://www.linkedin.com/in/minghui-shan-717508b/">LinkedIn Profile</a>
+<div id="webaddress">
+<a href="tel:004520953333">+45 20 95 33 33</a> |
+<a href="mailto:minghuicn@yahoo.com">minghuicn@yahoo.com</a> | <a href="https://www.linkedin.com/in/minghui-shan-717508b/">LinkedIn Profile</a>
+</div>
