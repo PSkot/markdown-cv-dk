@@ -9,86 +9,88 @@ Data Scientist, M.Sc. in Finance and Investments
 <div id="webaddress">
 <a href="tel:004528696008">+45 28 69 60 08</a> |
 <a href="mailto:pete_skoett@hotmail.com">pete_skoett@hotmail.com</a>
-| <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">LinkedIn Profile</a>
+| <a href="https://www.linkedin.com/in/peter-sk%C3%B8t-942b8060/">LinkedIn Profil</a>
 </div>
 
 
 <img src="Skof.jpg">
 
-## Profile
-My name is Peter. I am 25 years old and currently employed as Data Scientist at the international consumer lending company, 4finance.
-I am a highly self-driven individual with a flair and interest for advanced analytics. Until now, my approach has mostly been statistical,
-although I have recently become more acquainted with Machine Learning methodologies, which I intend to explore further. In addition, I have started to dive a bit into software programming as well.<br/>
-Apart from my professional profile, I am into playing music, gaming, running and spending time with friends, colleagues and family.
+## Profil
+Mit navn er Peter. Jeg er 25 år og arbejder i øjeblikket som Data Scientist for det internationale forbrugslånsfirma, 4finance.
+Jeg er en yderst selvdreven person med flair og interesse for avancerede analysemetoder. Indtil videre har jeg mest beskæftiget mig med statistik,
+men er for nyligt også blevet bedre bekendt med Machine Learning-teknikker, som jeg har i sinde at udforske yderligere. Udover dette er jeg også begyndt at dykke en smule ned i softwareprogrammering. <br/>
+Udover min professionelle profil er jeg glad for at spille musik, gaming og være sammen med venner, kolleager og familie.
 
-## Work Experience
+## Erfaring
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
-As Data Scientist I carry the primary responsibility, along with our regional Chief Risk Officer, in analyzing, managing and developing the risk/underwriting strategy
-for our two products, VIVUS.DK and Zaplo.dk.
-My tasks include, but are not limited to, monitoring our loan portfolio, developing automated KPI reports, data manipulation/analytics related to optimization of the risk/profitability of the business
-and ultimately develop and communicate an effective risk strategy, understandable to every level of the organization from customer care agents to the CEO.
+Som Data Scientist har jeg det primære ansvar, sammen med vores regionale Chief Risk Officer, i henhold til at analysere, administrere og udvikle vores risk/underwriting strategi
+for vores to produkter, VIVUS.DK og Zaplo.dk.
+Mine opgaver inkluderer, men er ikke begrænsede til, monitorering af vores portefølje, udvikling af automatiserede KPI-rapporter, data manipulering/analyse relateret til optimering af forretningens
+risiko/profitabilitet. Ultimativt er jeg medansvarlig for at udvikle samt kommunikere en effektiv risk-strategi, som er let forståelig for alle led i organisationen - fra kundeserviceagenter til vores CEO.
+
 
 <br/>
 
 `2016 - 2016`
-__Trainee (sales analytics), GroupM__<br/>
-As an analyst trainee in GroupM, I was assisting with data preparation and partly assisting with sales modelling, mostly based on regression analysis.
+__Trainee (salgsmodellering), GroupM__<br/>
+Som analytikertrainee i GroupM assisterede jeg primært med at forberede data til brug i salgsmodeller. Jeg hjalp også en smule med udvikling af salgsmodellerne, som primært var baseret på multiple lineære regressioner.
 <br/><br/>
 
 `2014 - 2016`
 __Assistant in Finance, 4finance__<br/>
-As assistant in Finance, I was responsible for daily book keeping, as well as assisting with understanding and adding new information to our accounting system, iScala.
-I was also involved in a few risk analysis projects.
+Som Finance-assistent var jeg ansvarlig for den daglige bogføring. Derudover hjalp jeg med at forstå, samt tilføje nye informationer til, vores regnskabssystem, iScala.
+Jeg var også involveret i enkelte projekter i forbindelse med risk-analyser.
 
-## Education
+
+## Uddannelse
 `2015 - 2017`
 __M.Sc. in Finance and Investments, Copenhagen Business School__<br/>
-Being a relatively new concentration at CBS, this education provides a fairly quantitative approach (relative to other finance educations at CBS) to most areas of Finance, including Corporate Finance, Portfolio Analysis, Derivatives and Financial Econometrics.
-A few useful tools (Excel/VBA, R) are also taught at this concentration.
+Som en relativt ny linje på CBS, giver denne uddannelse en relativt teoretisk/kvantitativ tilgang (sammenlignet med de fleste andre finansieringsuddannelser på CBS) til de fleste områder af finansiering; herunder Corporate Finance, Porteføjeteori, Derivater og Finansiel Økonometri.
+Derudover undervises der også i et par praktiske værktøjer (Excel/VBA, R).
 <br/><br/>
 
 `2012 - 2015`
 __B.Sc. in International Business, Copenhagen Business School__<br/>
-International Business provides an overview of most areas usually covered by CBS, including economics, financial accounting, statistics, marketing, strategy and communication.
+International Business giver et overblik over de fleste essentielle emner inden for forretningsforståelse i en international kontekst. Uddannelsen dækker blandt andet økonomi, regnskab, statistik, marketing, strategi og kommunikation.
 <br/><br/>
 
 __Other courses__
 
-`Completed`
-Econometrics II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+`Færdiggjort`
+Økonometri II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| University of Copenhagen <br/>
-Computer Science I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| University of Copenhagen
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| Københavns Universitet <br/>
+Datamatik I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| Københavns Universitet
 <br/><br/>
 
-`Ongoing`
+`Igangværende`
 Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&#8202;&#8202;&#8202;&#8202; \| Coursera <br/>
-Mathematical Software Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| The Technical University of Denmark
+Matematisk Software Programmering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| Danmarks Tekniske Universitet
 
 ## Skills
 
-__Tools/coding languages__
+__Værktøjer/kodesprog__
 
 
-Proficient/Experienced: <br/>
+Erfaren: <br/>
 SQL \| R \| SAS \| Excel/VBA
 <br/><br/>
 
-Familiarity:
+Kendskab til:
 <br/> Python \| C/C++ \| JavaScript | Git/GitHub
 
 <br/>
 
-__Other relevant skills__
+__Andre relevante egenskaber__
 
-- Data extraction/manipulation
-- Statistical/Mathematical modelling
+- Data udtræk/manipulering
+- Statistisk/matematisk modellering
 - Risk Management
-- Finance/Financial modelling
+- Finansiering/Finansiel modellering
 - Forecasting
 
 <br/>
@@ -99,13 +101,13 @@ __Other relevant skills__
 
 <!--Danish, English-->
 
-## References
+## Referencer
 
 __Stella Jemeljanova__ <br/>
-Previous Regional Head of Risk (Nordics) \| 4finance <br/>
+Tidligere Regional Head of Risk (Norden) \| 4finance <br/>
 <div id="webaddress">
 <a href="mailto:stella.jemeljanova@gmail.com">stella.jemeljanova@gmail.com</a> |
-<a href="https://www.linkedin.com/in/stella-jemeljanova-b4629580/">LinkedIn Profile</a>
+<a href="https://www.linkedin.com/in/stella-jemeljanova-b4629580/">LinkedIn Profil</a>
 <br/><br/>
 </div>
 
@@ -114,5 +116,5 @@ __Minghui Shan__ <br/>
 Finance Manager \| 4finance <br/>
 <div id="webaddress">
 <a href="tel:004520953333">+45 20 95 33 33</a> |
-<a href="mailto:minghuicn@yahoo.com">minghuicn@yahoo.com</a> | <a href="https://www.linkedin.com/in/minghui-shan-717508b/">LinkedIn Profile</a>
+<a href="mailto:minghuicn@yahoo.com">minghuicn@yahoo.com</a> | <a href="https://www.linkedin.com/in/minghui-shan-717508b/">LinkedIn Profil</a>
 </div>
