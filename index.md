@@ -56,7 +56,7 @@ __B.Sc. in International Business, Copenhagen Business School__<br/>
 International Business giver et overblik over de fleste essentielle emner inden for forretningsforståelse i en international kontekst. Uddannelsen dækker blandt andet økonomi, regnskab, statistik, marketing, strategi og kommunikation.
 <br/><br/>
 
-__Other courses__
+__Andre kurser__
 
 `Færdiggjort`
 Økonometri II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,7 +71,7 @@ Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 &nbsp;&nbsp;&#8202;&#8202;&#8202;&#8202; \| Coursera <br/>
 Matematisk Software Programmering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| Danmarks Tekniske Universitet
 
-## Skills
+## Egenskaber
 
 __Værktøjer/kodesprog__
 
