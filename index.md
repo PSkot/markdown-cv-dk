@@ -40,14 +40,14 @@ Som analytikertrainee i GroupM assisterede jeg primært med at forberede data ti
 
 `2014 - 2016`
 __Assistant in Finance, 4finance__<br/>
-Som Finance-assistent var jeg ansvarlig for den daglige bogføring. Derudover hjalp jeg med at forstå, samt tilføje nye informationer til, vores regnskabssystem, iScala.
+Som Finance-assistent var jeg ansvarlig for den daglige bogføring. Derudover hjalp jeg med at forstå, samt tilføje nye informationer til vores regnskabssystem, iScala.
 Jeg var også involveret i enkelte projekter i forbindelse med risk-analyser.
 
 
 ## Uddannelse
 `2015 - 2017`
 __M.Sc. in Finance and Investments, Copenhagen Business School__<br/>
-Som en relativt ny linje på CBS, giver denne uddannelse en relativt teoretisk/kvantitativ tilgang (sammenlignet med de fleste andre finansieringsuddannelser på CBS) til de fleste områder af finansiering; herunder Corporate Finance, Porteføjeteori, Derivater og Finansiel Økonometri.
+Som en relativt ny linje på CBS, giver denne uddannelse en relativt teoretisk/kvantitativ tilgang (sammenlignet med de fleste andre finansieringsuddannelser på CBS) til de fleste områder af finansiering; herunder Corporate Finance, Porteføljeteori, Derivater og Finansiel Økonometri.
 Derudover undervises der også i et par praktiske værktøjer (Excel/VBA, R).
 <br/><br/>
 
@@ -61,15 +61,15 @@ __Andre kurser__
 `Færdiggjort`
 Økonometri II &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| Københavns Universitet <br/>
-Datamatik I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| Københavns Universitet
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \| Københavns Universitet <br/>
+Datamatik I&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8202;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; \| Københavns Universitet
 <br/><br/>
 
 `Igangværende`
 Data Science Specialization &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&#8202;&#8202;&#8202;&#8202; \| Coursera <br/>
-Matematisk Software Programmering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;\| Danmarks Tekniske Universitet
+Matematisk Software Programmering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp;&#8202;&#8202;&#8202;&#8202;\| Danmarks Tekniske Universitet
 
 ## Egenskaber
 
