@@ -25,23 +25,21 @@ Udover min professionelle profil er jeg glad for at spille musik, gaming og vær
 
 `2016 -`
 __Data Scientist, 4finance__ <br/>
-Som Data Scientist har jeg det primære ansvar, sammen med vores regionale Chief Risk Officer, i henhold til at analysere, administrere og udvikle vores risk/underwriting strategi
+Som Data Scientist bærer jeg, sammen med vores regionale Chief Risk Officer, det primære ansvar for at analysere, administrere og udvikle vores risk/underwriting strategi
 for vores to produkter, VIVUS.DK og Zaplo.dk.
-Mine opgaver inkluderer, men er ikke begrænsede til, monitorering af vores portefølje, udvikling af automatiserede KPI-rapporter, data manipulering/analyse relateret til optimering af forretningens
-risiko/profitabilitet. Ultimativt er jeg medansvarlig for at udvikle samt kommunikere en effektiv risk-strategi, som er let forståelig for alle led i organisationen - fra kundeserviceagenter til vores CEO.
-
-
+Mine opgaver inkluderer, men er ikke begrænsede til, monitorering af vores portefølje, udvikling af automatiserede KPI-rapporter, datamanipulering/-analyse relateret til optimering af forretningens
+risiko/profitabilitet. Ultimativt er jeg medansvarlig for at udvikle samt kommunikere en effektiv risikostrategi, som er let forståelig for alle led i organisationen - fra kundeserviceagenter til vores CEO.
 <br/>
 
 `2016 - 2016`
 __Trainee (salgsmodellering), GroupM__<br/>
-Som analytikertrainee i GroupM assisterede jeg primært med at forberede data til brug i salgsmodeller. Jeg hjalp også en smule med udvikling af salgsmodellerne, som primært var baseret på multiple lineære regressioner.
+Som analytikertrainee i GroupM assisterede jeg primært med at forberede data til brug i salgsmodeller. Jeg hjalp også en smule med udvikling af salgsmodellerne, som primært var baseret på multipel lineær regression.
 <br/><br/>
 
 `2014 - 2016`
 __Assistant in Finance, 4finance__<br/>
 Som Finance-assistent var jeg ansvarlig for den daglige bogføring. Derudover hjalp jeg med at forstå, samt tilføje nye informationer til vores regnskabssystem, iScala.
-Jeg var også involveret i enkelte projekter i forbindelse med risk-analyser.
+Jeg var også involveret i enkelte risikoanalyser.
 
 
 ## Uddannelse
@@ -53,7 +51,7 @@ Derudover undervises der også i et par praktiske værktøjer (Excel/VBA, R).
 
 `2012 - 2015`
 __B.Sc. in International Business, Copenhagen Business School__<br/>
-International Business giver et overblik over de fleste essentielle emner inden for forretningsforståelse i en international kontekst. Uddannelsen dækker blandt andet økonomi, regnskab, statistik, marketing, strategi og kommunikation.
+International Business giver et overblik over de mest essentielle emner inden for forretningsforståelse i en international kontekst. Uddannelsen dækker blandt andet økonomi, regnskab, statistik, marketing, strategi og kommunikation.
 <br/><br/>
 
 __Andre kurser__
